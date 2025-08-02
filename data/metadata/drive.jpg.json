@@ -1,0 +1,10 @@
+{
+    "filename": "drive.jpg",
+    "size": 248530,
+    "headers": {
+        "content-disposition": "form-data; name=\"file\"; filename=\"drive.jpg\"",
+        "content-type": "multipart/form-data"
+    },
+    "content_type": "multipart/form-data",
+    "upload_time": "2025-08-01 11:07:33.815145"
+}

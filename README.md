@@ -162,7 +162,8 @@ PRs are welcome! If you'd like to improve the app or add new features, fork the 
 
 <!-- Add screenshots here if desired! Example: -->
 <!-- ![Main UI](screenshots/main_ui.png) -->
-https://github.com/VipulSingh2/Google-Drive-Clone/blob/main/images/backend.jpeg
+![Backend Architecture](https://github.com/VipulSingh2/Google-Drive-Clone/blob/main/images/backend.jpeg?raw=true)
+
 
 ---
 

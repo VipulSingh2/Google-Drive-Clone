@@ -153,7 +153,7 @@ PRs are welcome! If you'd like to improve the app or add new features, fork the 
 
 **Vipul Singh**
 
-- 📫 [LinkedIn](https://www.linkedin.com/in/vipul-singh/)
+- 📫 [LinkedIn]([https://www.linkedin.com/in/vipul-singh/](https://www.linkedin.com/in/vipul-singh-664b3021b/))
 - 💻 [GitHub](https://github.com/VipulSingh2)
 
 ---
